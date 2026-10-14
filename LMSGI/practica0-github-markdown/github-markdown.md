@@ -10,7 +10,7 @@
 >**Desenvolupament**: En parelles.
 
 >[!Tip]
->**Lliurament**: A través del Moodle en format presentació (`odt`, `ppt`, `pptx` o `pdf`).
+>**Lliurament**: A través del ^Moodle` en format presentació (`odt`, `ppt`, `pptx` o `pdf`).
 ## Enunciat
 
 
