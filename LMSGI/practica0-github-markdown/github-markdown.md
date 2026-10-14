@@ -16,13 +16,13 @@
 
 L’objectiu d’aquest exercici és aprofundir en els conceptes relacionats amb les característiques inherents als *llenguatges de marques* mitjançant la creació d’un **llenguatge propi**, heu de tenir en compte que, per a poder classificar la vostra creació com a llenguatge de marques, s’han de complir una sèrie de requisits:
 
-          El llenguatge s’ha de basar en **text pla**.
+> -  El llenguatge s’ha de basar en **text pla**.
 
-          Ha de fer ús de **metadades** (no confondre amb metallenguatge).
+> -  Ha de fer ús de **metadades** (no confondre amb metallenguatge).
 
-          N’ha de facilitar el procés automàtic de les dades per part d’un programa informàtic.
+> -  N’ha de facilitar el procés automàtic de les dades per part d’un programa informàtic.
 
-          N’ha de facilitar la representació (o la interpretació) de les dades emmagatzemades.
+> -  N’ha de facilitar la representació (o la interpretació) de les dades emmagatzemades.
 
 ## Un cop hàgiu acabat, prepareu una presentació per a explicar el següent:
 
