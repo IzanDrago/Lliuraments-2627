@@ -13,7 +13,7 @@ erDiagram
     MASCOTA {
         string Num_Chip PK
         string Nom "NOT NULL"
-        string Mochila
+        int Mochila
     }
     PERSONATGE {
         string DNI PK
@@ -32,9 +32,9 @@ erDiagram
        string Tipus "NOT NULL"
        float Pes "NOT NULL"
        string Qualitat "NOT NULL"
-       string Mesura_X "NOT NULL"
-       string Mesura_Y "NOT NULL"
-       string Mesura_Z "NOT NULL"
+       float Mesura_X "NOT NULL"
+       float Mesura_Y "NOT NULL"
+       float Mesura_Z "NOT NULL"
     }
     HABILITAT {
       string Codi PK
