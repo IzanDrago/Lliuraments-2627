@@ -71,7 +71,7 @@ erDiagram
     }
 ```
 ## Relacions
- ###Les relacions son:
+ ### Les relacions son:
  *Personatge* ***N-M*** *Habilitat* amb posibilitat de no tenir.
  
  *Personatge* ***N-M*** *Item* podent tenir molts items o no tenir cap.
