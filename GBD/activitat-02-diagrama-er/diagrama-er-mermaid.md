@@ -1,4 +1,4 @@
-# Diagrama Mermeid GBD
+# Diagrama Mermaid GBD
 ```mermaid
 erDiagram
     PERSONATGE }o--o{ HABILITAT : Poseeix
